@@ -9,7 +9,6 @@ class Square extends Shape{
         System.out.println(Math.pow(l,2));
 
     }
-
 }
 class Circle extends Shape{
     @Override
